@@ -1,2 +1,0 @@
-# C-
-treino em C#
